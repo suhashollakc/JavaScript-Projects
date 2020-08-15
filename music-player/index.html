@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Music Player</title>
+    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous" />
+
+</head>
+
+<body>
+
+    <h1>MusiPlay</h1>
+
+    <div class="music-container  " id="music-container">
+
+        <div class="music-info">
+            <h4 id="title"></h4>
+            <div class="progress-container" id="progress-container">
+
+                <div class="progress" id="progress">
+
+                </div>
+            </div>
+        </div>
+
+        <audio src="songs/goodmorning.mp3" id="audio"></audio>
+        <div class="img-container ">
+            <img src="covers/goodmorning.jpg" alt="music-cover" id="cover">
+        </div>
+
+        <div class="navigation">
+            <button id="prev" class="action-btn">
+                    <i class="fa fa-backward"></i>
+                </button>
+            <button id="play" class="action-btn action-btn-big">
+                    <i class="fa fa-play"></i>
+                </button>
+            <button id="next" class="action-btn">
+                    <i class="fa fa-forward"></i>
+                </button>
+        </div>
+    </div>
+
+    </div>
+
+
+
+
+    <script src="script.js"></script>
+</body>
+
+</html>
