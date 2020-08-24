@@ -3,6 +3,8 @@ A series of Web projects built with vanilla JavaScript and no additional JS libr
 
 ## 1. Custom Video Player( using HTML Video API)
 
+![custom video player](https://i.ibb.co/DGcLm4d/Screenshot-from-2020-08-24-21-52-00.jpg)
+
 ## 2. Pig DOM Game
 
 ## 3. Currency Exchange Rate Calculator
