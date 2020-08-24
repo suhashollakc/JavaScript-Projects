@@ -4,6 +4,7 @@ A series of Web projects built with vanilla JavaScript and no additional JS libr
 ## 1. Custom Video Player( using HTML Video API)
 
 ![custom video player](https://i.ibb.co/DGcLm4d/Screenshot-from-2020-08-24-21-52-00.jpg)
+
 [Link to the source code of Custom Video Player Project](https://github.com/suhasholla3/JavaScript-Projects/tree/master/Custom-Video-Player/custom-video-player)
 
 
