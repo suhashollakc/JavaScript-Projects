@@ -9,16 +9,18 @@ A series of Web projects built with vanilla JavaScript and no additional JS libr
 
 ## 4. Form Validator 
 
-## 5. HangMan GRE Words Game
+## 5. Expense Tracker
 
-## 6. Infinite Scroll Fetch 
+## 6. HangMan GRE Words Game
 
-## 7.  Meal Finder (Using API)
+## 7. Infinite Scroll Fetch 
 
-## 8. Book My Seat
+## 8.  Meal Finder (Using API)
 
-## 9. Custom Music Player
+## 9. Book My Seat
 
-## 10. Speech To Text Reader
+## 10. Custom Music Player
 
-## 11. Type Speed Keyboard Game
+## 11. Speech To Text Reader
+
+## 12. Type Speed Keyboard Game
